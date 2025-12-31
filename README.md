@@ -32,7 +32,7 @@ This project includes user registration, login, JWT-based authentication, forgot
 ---
 
 ## 📁 Folder Structure
-
+```text
 src/
  ├── config/          # Database, env, mail configuration
  ├── controllers/     # Request & response handling
@@ -45,7 +45,7 @@ src/
  ├── app.ts           # Express app setup
  └── server.ts        # Server entry point
 
-
+```
 
 ---
 
