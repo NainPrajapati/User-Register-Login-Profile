@@ -79,20 +79,51 @@ cd User-Register-Login-Profile
 
 
 Install dependencies
-
+```
 npm install
+```
+This will install all required dependencies defined in package.json, including:
 
+express
 
-Create .env file (use .env.example)
+mongoose
+
+jsonwebtoken
+
+bcrypt
+
+nodemailer
+
+dotenv
+
+typescript
+
+ts-node-dev
+
+Create .env file using .env.example
 
 Start the development server
-
+```
 npm run dev
+```
 
-
-Server will run on:
-
+Server will start at:
+```
 http://localhost:1111
+```
+
+---
+
+## 📚 Key Dependencies
+
+- **express** – Web framework
+- **mongoose** – MongoDB ODM
+- **jsonwebtoken** – JWT authentication
+- **bcrypt** – Password hashing
+- **nodemailer** – Email handling
+- **dotenv** – Environment variable management
+- **typescript** – Type safety
+- **ts-node-dev** – Development server with auto-reload
 
 🔐 API Endpoints
 Register User
