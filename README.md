@@ -125,7 +125,8 @@ http://localhost:1111
 - **typescript** – Type safety
 - **ts-node-dev** – Development server with auto-reload
 
-🔐 API Endpoints
+## 🔐 API Endpoints
+
 Register User
 POST /api/auth/register
 
@@ -138,7 +139,7 @@ POST /api/auth/forgot-password
 Reset Password
 POST /api/auth/reset-password
 
-🧪 Email Testing (Mailtrap)
+## 🧪 Email Testing (Mailtrap)
 
 Emails are captured using Mailtrap Email Testing
 
@@ -146,7 +147,7 @@ No real emails are sent
 
 Reset password links appear inside Mailtrap inbox
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 
 Implemented secure authentication flow
 
@@ -158,11 +159,11 @@ Used Mailtrap for safe email testing
 
 Followed clean backend architecture
 
-📌 Author
+## 📌 Author
 
 Nain Prajapati
 Backend Intern | Node.js | TypeScript
 
-📄 License
+## 📄 License
 
 This project is for learning and internship purposes.
