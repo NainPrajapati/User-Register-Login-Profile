@@ -74,7 +74,7 @@ Use `.env.example` as reference.
 
 1. Clone the repository
 
-git clone https://github.com/USERNAME/User-Register-Login-Profile.git
+git clone https://github.com/NainPrajapati/User-Register-Login-Profile.git
 cd User-Register-Login-Profile
 
 
