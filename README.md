@@ -33,17 +33,19 @@ This project includes user registration, login, JWT-based authentication, forgot
 
 ## 📁 Folder Structure
 
+```text
 src/
-├── config/ # Database, env, mail configuration
-├── controllers/ # Request & response handling
-├── interfaces/ # TypeScript interfaces
-├── middlewares/ # Auth middleware
-├── models/ # Mongoose models
-├── routes/ # API routes
-├── services/ # Business logic
-├── utils/ # Helper functions
-├── app.ts # Express app setup
-└── server.ts # Server entry point
+ ├── config/          # Database, env, mail configuration
+ ├── controllers/     # Request & response handling
+ ├── interfaces/      # TypeScript interfaces
+ ├── middlewares/     # Auth middleware
+ ├── models/          # Mongoose models
+ ├── routes/          # API routes
+ ├── services/        # Business logic
+ ├── utils/           # Helper functions
+ ├── app.ts           # Express app setup
+ └── server.ts        # Server entry point
+
 
 
 ---
